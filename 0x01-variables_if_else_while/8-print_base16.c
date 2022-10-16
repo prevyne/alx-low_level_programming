@@ -12,7 +12,8 @@ int main(void)
 		putchar((num % 10) + '0');
 	for (l = 'a'; l < 'z'; l++)
 		putchar(l);
-	putchar("\n");
+
+	putchar('\n');
 
 	return (0);
 }
