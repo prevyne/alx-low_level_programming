@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * puts_halg - prints half of a string
+ * puts_half - prints half of a string
  * @str: input
  */
 void put_half(char *str)
