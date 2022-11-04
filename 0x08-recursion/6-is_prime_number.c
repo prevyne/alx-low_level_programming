@@ -1,6 +1,6 @@
 #include "main.h"
 
-int isprime(int n, int i)
+int isprime(int n, int i);
 
 /**
  * is_prime_number - Checks if input is a prime number
