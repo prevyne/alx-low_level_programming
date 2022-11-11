@@ -30,7 +30,7 @@ int main(int argc, char *argv[])
  * @cents: amount of coins in cents that you need back
  * Return: coins
  */
-int change(int cents);
+int change(int cents)
 {
 	int a = 25, b = 10, c = 5, d = 2, e = 1;
 	int coins;
