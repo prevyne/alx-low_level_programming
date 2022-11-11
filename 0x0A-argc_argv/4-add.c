@@ -3,6 +3,7 @@
 
 /**
  * main - adds positive numbers.
+ * atoi - Converts string to integer
  * @argc: argument count
  * @argv: The array pointing to the arguments
  * Return: Always 0
