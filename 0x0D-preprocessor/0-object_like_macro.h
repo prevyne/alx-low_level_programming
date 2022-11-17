@@ -3,8 +3,7 @@
 
 /**
  * File: O-object_like_macro
- *
- * Desc: haeder file
+ * Desc: header file
  */
 #define SIZE 1024
 
